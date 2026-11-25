@@ -15,14 +15,11 @@ Notre clientèle est avant tout locale, dans le Conflent et ses alentours. La Jo
 - Le Café de l'Union — Fillols
 - Le Café du Canigou — Fillols
 - El Taller — Taurinya
-- Le IIème Rempart — Vernet-les-Bains
-- Chez Jean-Louis — Vernet-les-Bains
 - L'Alchimiste — Villefranche-de-Conflent
 - Chez Dodo — Villefranche-de-Conflent
 - La mise en bière · Beertruck — Corneilla del Vercol
 - La Ferreria — Prades
 - L'Alchimie — Prades
-- Les Halles du Conflent — Prades
 - La Castellane — Mosset
 - Le Mas Lluganas — Mosset
 - Un Xic de Tot — Eus
@@ -30,8 +27,6 @@ Notre clientèle est avant tout locale, dans le Conflent et ses alentours. La Jo
 ### Épiceries
 
 - Chez Domy — Taurinya
-- La Surprise du Pic — Vernet-les-Bains
-- La Crèmerie du Canigou — Vernet-les-Bains
 - La Corneillette — Corneilla-de-Conflent
 - Goûts et Arômes — Prades
 
