@@ -1,6 +1,7 @@
 title: La Brasserie Au Bord du Lit
 description: "Brasserie artisanale à Fillols (Conflent, Pyrénées-Orientales) : bières d’inspiration belge et infusions pétillantes sans alcool."
 lang: fr
+baseurl: /auborddulit
 
 collections:
   projects:

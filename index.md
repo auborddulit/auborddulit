@@ -7,7 +7,7 @@ in_menu: true
 <section class="hero pleine-largeur">
 <div class="hero-texte">
 <p class="surtitre">Brasserie artisanale · Fillols, Conflent · P.-O.</p>
-<h1 class="hero-titre">la brasserie<strong>au bord du lit</strong></h1>
+<h1 class="hero-titre">la brasserie <strong>au bord du lit</strong></h1>
 <p class="hero-intro">Une brasserie conflentoise de proximité, née d'une reconversion. Des bières inspirées de la culture belge, ancrées dans les Pyrénées-Orientales.</p>
 <p class="badges">
 <span>Bouteilles consignées</span>
